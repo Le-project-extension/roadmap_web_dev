@@ -24,7 +24,7 @@ Pesquise a sintaxe e utilidade de cada um dos comandos abaixo. Eles formarão a 
 
 ---
 
-## 📚 Material de Apoio (Curadoria)
+## 📚 Material de Apoio 
 Para ajudar na sua pesquisa, consulte estes materiais oficiais e interativos:
 1. **[Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)**: Um jogo interativo e visual excelente para entender como as branches funcionam na prática.
 2. **[Livro Oficial Pro Git (PT-BR)](https://git-scm.com/book/pt-br/v2)**: A bíblia do Git. Os capítulos 1 e 2 são leitura obrigatória para qualquer dev.
